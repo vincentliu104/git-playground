@@ -2,6 +2,7 @@
 
 feature1
 feature6
+feature7
 feature5
 feature4
 feature2
