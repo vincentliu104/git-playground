@@ -7,3 +7,4 @@ feature5
 feature4
 feature2
 feature3
+add scripts
