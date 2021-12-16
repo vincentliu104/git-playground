@@ -7,5 +7,3 @@ do
   git add .
   git commit -m "hotfix-"$i
 done
-
-gpsup
