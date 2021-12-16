@@ -3,7 +3,7 @@
 
 for i in {1..10};
 do
-  echo 'hotfix-'$i >> merge.txt
+  echo 'hotfix-'$i >> hotfix.txt
   git add .
   git commit -m "hotfix-"$i
 done
